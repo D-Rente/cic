@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
-      <div style={{backgroundColor: "blue"}}>
+      <div style={{backgroundColor: "blue", fontFamily: "monospace" }}>
       <h1>David Renteria</h1>
+      <h2><a href="http://www.youtube.com">Youtube</a> <a href="https://miaulavirtual.ucp.edu.co/my/">moodle</a></h2>
       </div>
       <div >
         <a href="https://vitejs.dev" target="_blank">
